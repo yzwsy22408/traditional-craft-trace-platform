@@ -1,12 +1,14 @@
-# Craft Trace Vue
+# 传统手工艺研学与溯源平台
+
+> Spring Boot + Vue 3 Graduation Project
 
 ![Vue 3](https://img.shields.io/badge/Vue-3-42b883?style=flat-square&logo=vue.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7-6db33f?style=flat-square&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8-4479a1?style=flat-square&logo=mysql&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-black?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/yzwsy22408/craft-trace-vue?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/yzwsy22408/traditional-craft-trace-platform?style=flat-square)
 
-基于 Spring Boot + Vue 3 的传统手工艺研学与作品溯源平台毕业设计项目，聚焦课程管理、工坊运营、作品展示与公开溯源查询。
+这是一个基于 Spring Boot + Vue 3 的毕业设计项目，聚焦传统手工艺研学、课程管理、作品展示与公开溯源查询。
 
 ## 项目亮点
 
@@ -81,7 +83,7 @@
 ### 工程结构
 
 ```text
-craft-trace-vue/
+traditional-craft-trace-platform/
 ├─ src/                               Vue 前端源码
 ├─ public/                            前端静态资源与演示图片
 ├─ docs/screenshots/                  README 展示截图
